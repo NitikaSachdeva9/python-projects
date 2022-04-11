@@ -1,5 +1,8 @@
 # python-projects
 This repository contains the mini python projects created by me for learning.
+.
+.
+
 Project 1: email_validation.py
 Execution Results:
 ![image](https://user-images.githubusercontent.com/98147893/162733221-94d0f54f-c503-461b-a9ee-9c80aa9f391c.png)
