@@ -20,7 +20,7 @@ if len(email)>=6:
                 if k==1 or j==1 or d==1:
                     print("Condition:5 | Email address cannot have a space, upper char. Can have digit, _ , . , @")
                 else:
-                    print "Bingo, the Email Address is as per the standards"
+                    print("Bingo, the Email Address is as per the standards")
             else:
                 print("Condition:4 | -3 and -4 index number(from the back) should be a .")
         else:
