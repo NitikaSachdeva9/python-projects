@@ -1,6 +1,6 @@
 # python-projects
 This repository contains the mini python projects created by me for self-learning.<br />
-Project 1: email_validation.py<br />
+*Project 1*: email_validation.py<br />
 This project takes email address as input from the user and runs 5 constraints to validate if the email address is as per the standards.<br />
 Execution Results:<br />
 ![image](https://user-images.githubusercontent.com/98147893/162733221-94d0f54f-c503-461b-a9ee-9c80aa9f391c.png)
