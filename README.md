@@ -1,6 +1,6 @@
 # python-projects
 This repository contains the mini python projects created by me for self-learning.<br />
-*Project 1*: email_validation.py<br />
+**Project 1**: email_validation.py<br />
 This project takes email address as input from the user and runs 5 constraints to validate if the email address is as per the standards.<br />
 Execution Results:<br />
 ![image](https://user-images.githubusercontent.com/98147893/162733221-94d0f54f-c503-461b-a9ee-9c80aa9f391c.png)
@@ -10,9 +10,9 @@ Execution Results:<br />
 ![image](https://user-images.githubusercontent.com/98147893/162733669-2ecc38fe-e97e-4d34-ada3-cd4904e73be2.png)
 ![image](https://user-images.githubusercontent.com/98147893/162733757-655d7a0f-505c-4806-aa33-0c99492b2b34.png)
 <br />
-Project 2: email_validation_using_regex.py<br />
+**Project 2**: email_validation_using_regex.py<br />
 This project validates the email address provided by the user by using RegEx to check the conditions.<br />
-What is RegEx?<br />
+*What is RegEx?*<br />
 Regular Expressions, also known as “regex” or “regexp”, are used to match strings of text such as particular characters, words, or patterns of characters. It means that we can match and extract any string pattern from the text with the help of regular expressions.<br />
 #import re - Import the RegEx module.<br />
 Metacharacters are characters with a special meaning:<br />
