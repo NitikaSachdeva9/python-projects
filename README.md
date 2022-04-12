@@ -1,5 +1,5 @@
-# Mini Python-projects
-This repository contains the mini python projects created by me for self-learning.<br />
+# Python-projects
+This repository contains mini python projects created by me for self-learning.<br /><br />
 **Project 1**: email_validation.py<br />
 This project takes email address as input from the user and runs 5 constraints to validate if the email address is as per the standards. The conditions are checked using if-else and for loop<br />
 Execution Results:<br />
